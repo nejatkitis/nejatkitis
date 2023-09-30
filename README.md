@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nejatkitis
-- 👀 I’m interested in Iot
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Mobile
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
